@@ -1,0 +1,15 @@
+Local Chatting System Licence and Agreement
+
+Disclimer
+	We Are Not Responsible For Any Damage By Using This Application So Use it At Your Own Risk
+
+Dear User This Application is Developed by Group-11 Members of 2nd Year Software Engineering Students at Kombolcha 
+Institute of Technology in 2010 E.C as Our Final Project For Data Stracture and Algorithm.
+
+This Project is Developed By C++ With The Help of Its Powerfull Header Files and Our Classified Fully Functional Internal 
+Header Files.
+
+We Have Deployed This Application as An Open Source so You Can Edit and Modify The Source Code To Make It More PowerFull 
+Be Care Full To Point My Repo github.com/ In Your Project if You Use Our Header Files or Any Source File From Our Project.
+
+Finally Thanks for Using Our Application Please Donate To Help Us Develop and Make Our Other Projects Powerfull For the Future
